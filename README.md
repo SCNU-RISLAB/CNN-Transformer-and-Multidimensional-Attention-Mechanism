@@ -45,11 +45,19 @@ python process_Emodb.py
 If you use this work in your research, please cite:
 
 bibtex
+
 @article{tang2025speech,
-title={Speech emotion recognition via cnn-transformer and multidimensional attention mechanism},
-author={Tang, Xiaoyu and Huang, Jiazheng and Lin, Yixin and Dang, Ting and Cheng, Jintao},
-journal={Speech Communication},
-pages={103242},
-year={2025},
-publisher={Elsevier}
+
+title = {Speech emotion recognition via cnn-transformer and multidimensional attention mechanism},
+
+author = {Tang, Xiaoyu and Huang, Jiazheng and Lin, Yixin and Dang, Ting and Cheng, Jintao},
+
+journal = {Speech Communication},
+
+pages = {103242},
+
+year = {2025},
+
+publisher = {Elsevier}
+
 }
